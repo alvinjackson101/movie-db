@@ -13,6 +13,9 @@
 * ===========================================================
 *
 */
+/*My  style updates*/
+
+
 .text-small {
   font-size: 0.9rem !important;
 }
@@ -723,7 +726,7 @@ section {
 }
 
 .device-wrapper .screen {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 /*
@@ -939,14 +942,14 @@ STYLE SWITCHER FOR DEMO
 
 .btn-primary {
   color: #fff;
-  background-color: #540CFA;
-  border-color: #540CFA;
+  background-color: #ce584c;
+  border-color: #be5145;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #4505db;
-  border-color: #4204cf;
+  background-color: #aa4a3f;
+  border-color: #9b4238;
 }
 
 .btn-primary:focus, .btn-primary.focus {

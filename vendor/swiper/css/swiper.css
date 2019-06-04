@@ -12,8 +12,9 @@
 .swiper-container {
   margin: 0 auto;
   position: relative;
-  overflow: hidden;
+  overflow-x: scroll;
   list-style: none;
+
   padding: 0;
   /* Fix of Webkit flickering */
   z-index: 1;
