@@ -481,6 +481,11 @@ mark,
   height: auto;
 }
 
+.img-logo{
+  height:150%;
+  width:150%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
